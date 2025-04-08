@@ -7,7 +7,7 @@
     <a href="https://github.com/Atlas-OS/Atlas/releases/latest"><img alt="Release" src="https://img.shields.io/github/release/atlas-os/atlas?style=for-the-badge&color=1A91FF" /></a>
     <a href="https://github.com/Atlas-OS/.github/blob/main/profile/CODE_OF_CONDUCT.md"><img alt="Code of Conduct" src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge&color=1A91FF" /></a>
   </p>
-<p align="center">A transparent and lightweight modification to Windows, designed to optimize performance, privacy and usability.</p>
+<p align="center">A transparent and lightweight modification to Windows, designed to optimize performance, privacy and usability. </p>
 
 <p align="center">
   <a href="https://atlasos.net" target="_blank">🌐 Website</a>
